@@ -1,4 +1,4 @@
-class Teste do
+class Teste
 
   puts "É um teste"
 
